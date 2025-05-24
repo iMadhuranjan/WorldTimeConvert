@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://worldtimeconvert.com
+
+# Sitemaps
+Sitemap: https://worldtimeconvert.com/sitemap.xml
